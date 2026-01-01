@@ -9,7 +9,7 @@ export default {
             assets: 'build',
             fallback: 'index.html', // Importante para Single Page Apps
             precompress: false,
-            strict: true
+            strict: false
         })
     }
 };
