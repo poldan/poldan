@@ -328,11 +328,11 @@
                       </li>
                       <li class="flex items-start gap-3 text-sm text-gray-300">
                           <svg class="w-5 h-5 text-[#51ad7c] flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
-                          <span>Identidad de marca visible</span>
+                          <span>Identidad de marca</span>
                       </li>
                       <li class="flex items-start gap-3 text-sm text-gray-300">
                           <svg class="w-5 h-5 text-[#51ad7c] flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
-                          <span>Hosting + dominio (1er año)</span>
+                          <span>Hosting + dominio</span>
                       </li>
                   </ul>
 
@@ -364,11 +364,11 @@
                       </li>
                       <li class="flex items-start gap-3 text-sm text-white font-medium">
                           <svg class="w-5 h-5 text-[#51ad7c] flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
-                          <span>Integración de formularios</span>
+                          <span>Formularios integrados</span>
                       </li>
                       <li class="flex items-start gap-3 text-sm text-gray-300">
                           <svg class="w-5 h-5 text-[#51ad7c] flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
-                          <span>Optimizado para convertir</span>
+                          <span>Conversión optimizada</span>
                       </li>
                       <li class="flex items-start gap-3 text-sm text-gray-300">
                           <svg class="w-5 h-5 text-[#51ad7c] flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
@@ -376,7 +376,7 @@
                       </li>
                       <li class="flex items-start gap-3 text-sm text-gray-300">
                           <svg class="w-5 h-5 text-[#51ad7c] flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
-                          <span>Hosting + dominio (1er año)</span>
+                          <span>Hosting + dominio</span>
                       </li>
                   </ul>
 
