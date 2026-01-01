@@ -1,15 +1,16 @@
-import adapter from '@sveltejs/adapter-static'; // Cambia esto
+import adapter from '@sveltejs/adapter-static';
 
 export default {
-    kit: {
-        adapter: adapter({
-            // default options are shown. On some platforms
-            // these options are set automatically — see below
-            pages: 'build',
-            assets: 'build',
-            fallback: 'index.html', // Importante para Single Page Apps
-            precompress: false,
-            strict: false
-        })
+  kit: {
+    adapter: adapter({
+      pages: 'build',
+      assets: 'build',
+      fallback: 'index.html',
+      precompress: false,
+      strict: false
+    }),
+    prerender: {
+      handleMissingId: 'ignore'
     }
+  }
 };
