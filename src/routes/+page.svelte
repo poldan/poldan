@@ -10,7 +10,7 @@
   async function handleSubmit(e: any) {
     const formData = new FormData(e.target);
     
-    // Tu clave real
+    // Tu clave inventada
     formData.append("access_key", "6057433d-2df7-4e61-a44d-3d2071d7dc51");
 
     formStatus = 'submitting';
@@ -898,7 +898,7 @@
       <div class="text-gray-400 text-sm flex flex-col items-center md:items-end">
         <p>Missoula, Montana</p>
         <p>775 Wyoming St.</p>
-        <p class="text-[#51ad7c] mt-2">hello@poldandesign.com</p>
+        <p class="text-[#51ad7c] mt-2">hola@poldandesign.com</p>
       </div>
     </div>
   </footer>
